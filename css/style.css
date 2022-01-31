@@ -11,6 +11,13 @@ header {
     text-align: center;
 }
 
+.part2 {
+    color: #000000;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #06fafa;
+}
+
 nav a {
     color: #fffafa;
 }
